@@ -5,9 +5,9 @@ Phase A: Initial Layout phase with Mock Data:
 Phase B: functionalities to be added soon:
 
 >> user management, login & registeration, dashboard
->> contact form
->> integrating google maps
->> implementing redux
+>> contact form,
+>> integrating google maps,
+>> implementing redux,
 
 and the list goes on.... 
 
