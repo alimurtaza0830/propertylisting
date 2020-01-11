@@ -6,7 +6,7 @@ const Header = () => {
 		<header data-test="headerComponent">
 			<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
 		      <Link className="navbar-brand" to="/">
-		        Property Listing
+		        Awein Properties
 		      </Link>
 		      <button
 		        className="navbar-toggler"
