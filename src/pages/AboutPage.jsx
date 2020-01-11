@@ -1,11 +1,13 @@
 import React from 'react';
-import Header from '../components/Header';
 
 const AboutPage = () => {
 	return (
-		<div>
-			<Header />
-			<h1> AboutPage Component </h1>
+		<div className="row">
+			<div className="jumbotron my-4">
+			  <h1 className="display-4">Awein Properties</h1>
+			  <p className="lead"><strong>Welcome</strong> to the official website of Awein Properties.</p>
+			  <p>Here you will find the list of rentable and available for sale in various cities of Germany and soon across the globe.</p>
+			</div>
 		</div>
 	)
 }
